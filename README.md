@@ -11,3 +11,6 @@ Aqui está um resumo dos pontos principais:
 3. Exemplo de Entrada e Saída:
    - Entrada: "anagram", "margana"
    - Saída: true (são anagramas).
+4. Formato de Entrada e Restrições:
+   - Ambas as strings consistem apenas em caracteres alfabéticos.
+   - A comparação deve ignorar a diferença entre maiúsculas e minúsculas.
