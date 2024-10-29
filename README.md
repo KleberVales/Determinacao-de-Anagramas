@@ -6,3 +6,8 @@ Aqui está um resumo dos pontos principais:
 
 1. Definição de Anagramas: Duas strings são consideradas anagramas se tiverem todos os mesmos caracteres com as mesmas frequências.
 2. Função: A função a ser implementada é isAnagram. Ela deve:
+   - Receber duas strings como parâmetros.
+   - Retornar true se as strings forem anagramas e false caso contrário.
+3. Exemplo de Entrada e Saída:
+   - Entrada: "anagram", "margana"
+   - Saída: true (são anagramas).
